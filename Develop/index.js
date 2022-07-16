@@ -15,6 +15,9 @@
 // THEN I am taken to the corresponding section of the README
 
 // TODO: Include packages needed for this application
+const fs = require('fs');
+const inquirer = require('inquirer');
+const generatePage = require('./page-template');
 
 // TODO: Create an array of questions for user input
 const questions = [];
