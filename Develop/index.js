@@ -98,7 +98,27 @@ const questions = () => {
         type: 'input',
         name: 'contributions',
         message: ' Please list the name and githubs of your fellow contributers'
+    },
+
+    // Ask for contact information
+    {
+        type: 'input',
+        name: 'github',
+        message: 'Please insert your github link here'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter your email address here'
+    },
+
+    // Test section of the ReadMe
+    {
+        type: 'input',
+        name: 'test',
+        message: 'Detail what kind fo tests you have run here'
     }
+
 
 
 ]);

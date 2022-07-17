@@ -12,7 +12,6 @@ const generateReadMe = (data) => {
     - [Usage](#usage)
     - [License](#license)
     - [Contributions](#contribution)
-    - [Features](#features)
     - [Questions](#questions)
     - [Tests](#tests)
 
@@ -26,8 +25,6 @@ const generateReadMe = (data) => {
     ${data.license}
     ## Contributions:
     ${data.contribution}, ${data.contributions}
-    ## Features:
-    ${data.features}
     ## Questions:
     ${data.questions}
         Want to see more of my work? Reach out to me here at https://github.com/[${data.username}] to see what I am working on next.
