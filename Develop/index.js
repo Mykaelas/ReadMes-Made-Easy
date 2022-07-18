@@ -125,10 +125,28 @@ const questions = () => {
 };
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+        if (err) {
+            return console.log(err);
+        }
+
+        console.log ("Your ReadMe is ready to be previwed!");
+    })
+
+};
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions)
+    .then(function (userInput) {
+        console.log (userInput);
+
+        // call writeToFile to create the file called README and pull information from the userInput to use the function generatePage to create the README
+        writeToFile("README.md", generatePage(userInput));
+    });
+
+};
 
 // Function call to initialize app
 init();
