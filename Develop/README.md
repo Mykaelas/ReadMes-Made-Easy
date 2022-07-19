@@ -1,8 +1,8 @@
-# Name
+# yes
 
 ## License:
 
-![license](https://img.shields.io/badge/license-BSD2-blue.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
@@ -16,29 +16,29 @@
 
 ## Description:
 
-It is a project for class
+yes
 
 ## Installation:
 
-Download From Github
+yes
 
 ## Usage:
 
-The outcome is it will work
+yes
 
 ## License:
 
-BSD2
+MIT
 
 ## Contributions:
 
-false, N
+yse
 
 ## Questions:
 
-Want to see more of my work? Reach out to me here at https://github.com/ to see what I am working on next.
+Want to see more of my work? Reach out to me here at https://github.com/yes to see what I am working on next.
 
-You can reach me at my email,  for any other questions you may have.
+You can reach me at my email, yes for any other questions you may have.
 
 ## Tests:
 

@@ -51,15 +51,7 @@ const questions = () => {
         name: 'usage',
         message: "Write what the expected outcome of your project should be as well as paste example links if applicable."
     },
-
-    // Asks about other contributers
-    {
-        type: 'confirm',
-        name: 'contribution',
-        message: 'Did other people contribute to your project?',
-        default: false
-    },
-
+    
     // Ask for other contributers information
     {
         type: 'input',
