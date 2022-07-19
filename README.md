@@ -31,7 +31,7 @@ None
 
 ## Contributions:
 
-I worked on this project alone. 
+Contributors are https://github.com/Xandromus and https://github.com/gachoi06
 
 ## Questions:
 
