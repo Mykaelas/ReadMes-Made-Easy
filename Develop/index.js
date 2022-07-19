@@ -51,7 +51,7 @@ const questions = () => {
         name: 'usage',
         message: "Write what the expected outcome of your project should be as well as paste example links if applicable."
     },
-    
+
     // Ask for other contributers information
     {
         type: 'input',
@@ -74,7 +74,7 @@ const questions = () => {
     // Test section of the ReadMe
     {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'Detail what kind of tests you have run here:'
     }
 

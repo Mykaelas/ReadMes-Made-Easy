@@ -1,4 +1,4 @@
-# yes
+# Project
 
 ## License:
 
@@ -16,15 +16,15 @@
 
 ## Description:
 
-yes
+This is a class project
 
 ## Installation:
 
-yes
+Download it from Github
 
 ## Usage:
 
-yes
+Make readmes
 
 ## License:
 
@@ -32,13 +32,13 @@ MIT
 
 ## Contributions:
 
-yse
+No
 
 ## Questions:
 
-Want to see more of my work? Reach out to me here at https://github.com/yes to see what I am working on next.
+Want to see more of my work? Reach out to me here at https://github.com/Mykaelas to see what I am working on next.
 
-You can reach me at my email, yes for any other questions you may have.
+You can reach me at my email, email@email.com for any other questions you may have.
 
 ## Tests:
 
