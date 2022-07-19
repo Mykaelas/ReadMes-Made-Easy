@@ -39,9 +39,9 @@ ${data.contribution}, ${data.contributions}
 
 ## Questions:
 
-${data.questions}
-    Want to see more of my work? Reach out to me here at https://github.com/[${data.github}] to see what I am working on next.
-    You can reach me at my email,[${data.email}] for any other questions you may have.
+Want to see more of my work? Reach out to me here at https://github.com/${data.github} to see what I am working on next.
+
+You can reach me at my email, ${data.email} for any other questions you may have.
 
 ## Tests:
 

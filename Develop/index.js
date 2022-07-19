@@ -64,7 +64,7 @@ const questions = () => {
     {
         type: 'input',
         name: 'contributions',
-        message: 'Please list the name and githubs of your fellow contributers.'
+        message: 'Did other people contribute to your project? If so, please write  their names and githubs here.'
     },
 
     // Ask for contact information
