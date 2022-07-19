@@ -27,7 +27,7 @@ const questions = () => {
         type: 'checkbox',
         name: 'license',
         message: 'What License does your project fall under?',
-        choices: ['MIT License', 'Apache License 2.0', 'GPL License(aka GNU General Public License v3.0', 'BSD License(2-clause)', 'BSD License(3-clause)', 'BSD License(4-clause)', 'None of the above']
+        choices: ['MIT', 'Apache', 'GPL', 'BSD2', 'BSD3', 'BSD4', 'None of the above']
     },
     
     // Asking the user for a description of their project
