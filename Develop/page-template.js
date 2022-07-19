@@ -35,7 +35,7 @@ ${data.license}
 
 ## Contributions:
 
-${data.contribution}, ${data.contributions}
+${data.contributions}
 
 ## Questions:
 
