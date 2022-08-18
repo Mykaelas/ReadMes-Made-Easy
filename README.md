@@ -40,5 +40,5 @@ Want to see more of my work? Reach out to me here at https://github.com/Mykaelas
 You can reach me at my email, mykaela.saenz1@gmail.com for any other questions you may have.
 
 ## Links:
-Need help understanding what to do? No problem, follow this link https://www.youtube.com/watch?v=T2eDaQ3dVNY to help. 
+Need help understanding what to do? No problem, follow this link https://drive.google.com/file/d/1OL-6QQsR1WHczUfHhJjw786cmAAuGA0g/view to help. 
 
