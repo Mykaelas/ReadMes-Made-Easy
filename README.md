@@ -2,7 +2,7 @@
 
 ## License:
 
-No License as of this point in time
+No License as of this point in time.
 
 ## Table of Contents
 
