@@ -1,3 +1,4 @@
+
 # Read Mes Made Easy
 
 ## License:
@@ -8,6 +9,7 @@ No License as of this point in time.
 
 - [Description](#description)
 - [Installation](#installation)
+- [Languages](#langugaes)
 - [Usage](#usage)
 - [License](#license)
 - [Contributions](#contributions)
@@ -15,12 +17,18 @@ No License as of this point in time.
 - [Links](#links)
 
 ## Description:
+![ReadMes Made Easy](https://user-images.githubusercontent.com/101831653/215194257-42fb1ba6-4f37-4441-892a-30db148229d0.png)
 
 Are you unsure of what to write in your README? Are you tired of looking up videos for hours on end that don't tell you exactly what you need to put? Well do I have the product for you. This README generator will ask you a series of questions using node and inquirer and by the time you are done you will just need to copy and paste it in to Github!
 
 ## Installation:
 
 To download this program you will need to do a git pull as well as install npm i inquirer@8.2.4. 
+
+## Languages: 
+The languages used to create this app are: 
+- JavaScript
+- Inquirer
 
 ## Usage:
 
